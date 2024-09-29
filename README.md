@@ -8,9 +8,6 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-  - [Example](#example)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -46,3 +43,7 @@ To run this project, you need the following software installed on your machine:
 
    ```bash
    git clone https://github/AaronDavey123/Huffman-Coding
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
