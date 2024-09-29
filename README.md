@@ -7,7 +7,6 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [License](#license)
 
 ## Introduction
